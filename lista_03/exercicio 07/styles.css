@@ -1,0 +1,9 @@
+#botao {
+    background-color: red;
+    transition: background-color 0.5s;
+}
+
+#botao:hover{
+    background-color: pink;
+
+}

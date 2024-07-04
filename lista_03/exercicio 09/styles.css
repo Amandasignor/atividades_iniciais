@@ -1,0 +1,14 @@
+#d1 {
+    width: 100%;
+    height: 200px;
+    background-color: red;
+    
+}
+
+
+@media (max-width: 600px){
+    #d1 {
+    background-color: green;
+    }
+}
+

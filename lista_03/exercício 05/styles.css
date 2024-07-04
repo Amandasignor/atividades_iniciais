@@ -1,0 +1,11 @@
+.container {
+     display:flex
+}
+
+#c1,#c2,#c3 {
+    display: flex;
+    flex: 1;
+    border: 1px solid #000000;
+    padding: 20px;
+    text-align: center;
+}
